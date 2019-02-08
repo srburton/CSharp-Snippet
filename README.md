@@ -9,7 +9,7 @@ Code snippets are small blocks of reusable code that can be inserted in a code f
 
  - Download 
  - Visual Studio Menu 
- -  `Tools -> Code Snippets Managem`
+ -  `Tools -> Code Snippets Manager`
  - Click import 
 
 ## Snippets
