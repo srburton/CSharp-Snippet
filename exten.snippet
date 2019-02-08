@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <CodeSnippet Format="1.0.0">
+        <Header>
+            <Title>Exten</Title>
+			<Author>Renato Burton</Author>
+			<Shortcut>exten</Shortcut>
+        </Header>
+        <Snippet>
+		<Declarations>
+			<Object>
+				<ID>Return</ID>
+				<Default>void</Default>
+			</Object>
+			<Object>
+				<ID>Name</ID>
+				<Default>MyMethod</Default>
+			</Object>
+			<Object>
+				<ID>Extension</ID>
+				<Default>string</Default>
+			</Object>
+			<Object>
+				<ID>ExtensionName</ID>
+				<Default>str</Default>
+			</Object>
+		</Declarations>
+            <Code Language="CSharp">
+                <![CDATA[
+				
+					public static $Return$ $Name$(this $Extension$ $ExtensionName$)
+					{
+					   
+					}
+				
+				]]>
+            </Code>
+        </Snippet>
+    </CodeSnippet>
+</CodeSnippets>
