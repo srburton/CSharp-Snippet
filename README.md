@@ -41,6 +41,12 @@ public void MyMethod<T>(T obj)
 }
 ```
 
+`atmet` + `tab + tab`
+
+```c#
+ [Annotation]
+```
+
 `exten` + `tab + tab`
 
 ```c#
